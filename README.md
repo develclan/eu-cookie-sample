@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the sample app for the EU Cookie Sample.
 
-Things you may want to cover:
+It uses a Ruby on Rails 7 app with the built-in JavaScript library called Stimulus.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The article is available at https://develclan.com/how-to-implement-a-cookie-bar-in-ruby-on-rails/
